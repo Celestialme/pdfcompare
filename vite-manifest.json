@@ -1,0 +1,139 @@
+{
+  "src/routes/pdfcompare/+page.css": {
+    "file": "_app/immutable/assets/_page-2ca1564b.css",
+    "src": "src/routes/pdfcompare/+page.css"
+  },
+  "Renderer.css": {
+    "file": "_app/immutable/assets/Renderer-072e2687.css",
+    "src": "Renderer.css"
+  },
+  ".svelte-kit/generated/nodes/1.js": {
+    "file": "_app/immutable/chunks/1-9d8a29cc.js",
+    "src": ".svelte-kit/generated/nodes/1.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "_app/immutable/chunks/2-ae243218.js",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+page.svelte"
+    ]
+  },
+  "src/routes/+layout.js": {
+    "file": "_app/immutable/modules/pages/_layout.js-311016e7.js",
+    "src": "src/routes/+layout.js",
+    "isEntry": true,
+    "imports": [
+      "__layout-3361d6f2.js"
+    ]
+  },
+  "__layout-3361d6f2.js": {
+    "file": "_app/immutable/chunks/_layout-3361d6f2.js"
+  },
+  ".svelte-kit/generated/nodes/0.js": {
+    "file": "_app/immutable/chunks/0-5016ed4f.js",
+    "src": ".svelte-kit/generated/nodes/0.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__layout-3361d6f2.js",
+      "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/3.js": {
+    "file": "_app/immutable/chunks/3-f402ca8a.js",
+    "src": ".svelte-kit/generated/nodes/3.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/pdfcompare/+page.svelte"
+    ]
+  },
+  "_index-9e1e7191.js": {
+    "file": "_app/immutable/chunks/index-9e1e7191.js",
+    "imports": [
+      "_index-ca317a8e.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte": {
+    "file": "_app/immutable/components/layout.svelte-0db0daf3.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ca317a8e.js"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "_app/immutable/components/pages/_page.svelte-aba43453.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ca317a8e.js",
+      "_Renderer-38f30776.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-2ca1564b.css"
+    ]
+  },
+  "_singletons-74c6405e.js": {
+    "file": "_app/immutable/chunks/singletons-74c6405e.js",
+    "imports": [
+      "_index-9e1e7191.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "_app/immutable/components/error.svelte-ed5e756e.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ca317a8e.js",
+      "_singletons-74c6405e.js"
+    ]
+  },
+  "src/routes/pdfcompare/+page.svelte": {
+    "file": "_app/immutable/components/pages/pdfcompare/_page.svelte-d5365ce5.js",
+    "src": "src/routes/pdfcompare/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ca317a8e.js",
+      "_Renderer-38f30776.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-2ca1564b.css"
+    ]
+  },
+  "_index-ca317a8e.js": {
+    "file": "_app/immutable/chunks/index-ca317a8e.js"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/start-29d61639.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-ca317a8e.js",
+      "_singletons-74c6405e.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/nodes/0.js",
+      ".svelte-kit/generated/nodes/1.js",
+      ".svelte-kit/generated/nodes/2.js",
+      ".svelte-kit/generated/nodes/3.js"
+    ]
+  },
+  "_Renderer-38f30776.js": {
+    "file": "_app/immutable/chunks/Renderer-38f30776.js",
+    "imports": [
+      "_index-ca317a8e.js",
+      "_index-9e1e7191.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Renderer-072e2687.css"
+    ]
+  },
+  "src/routes/+page.css": {
+    "file": "_app/immutable/assets/_page-2ca1564b.css",
+    "src": "src/routes/pdfcompare/+page.css"
+  }
+}
